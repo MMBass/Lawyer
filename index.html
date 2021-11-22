@@ -2259,6 +2259,13 @@
     <script type='text/javascript'
         src='https://www.gandelstyle.co.il/wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js?ver=3.1.4'
         id='preloaded-elements-handlers-js'></script>
+    <script>
+        var all_elem = document.getElementsByTagName("*");
+
+        for (var i=0, max=all_elem.length; i < max; i++) {
+            all_elem[i].style.visibility = "visible";
+        }
+    </script>
 </body>
 
 </html>
