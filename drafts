@@ -1,4 +1,19 @@
 
+// Player section: 
+<div class="elementor-element elementor-element-4a41547 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="4a41547" data-element_type="widget" id="video-areaA" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen="" title="youtube נגן וידאו" src="https://web.archive.org/web/20201230212443if_/https://www.youtube-nocookie.com/embed/tnpkq-BZ87g?feature=oembed&amp;start=0&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=1&amp;rel=0&amp;modestbranding=0" data-ruffle-polyfilled=""></iframe>				<div class="elementor-custom-embed-image-overlay" style="background-image: url(/web/20201230212443im_/https://admoni.co.il/);">
+																<div class="elementor-custom-embed-play" role="button">
+							<i class="eicon-play" aria-hidden="true"></i>
+							<span class="elementor-screen-only">נגן וידאו</span>
+						</div>
+									</div>
+					</div>
+				</div>
+				</div>
+
+
 // Who we are section:
 <section class="elementor-section elementor-top-section elementor-element elementor-element-ce1d0c5 elementor-section-height-min-height elementor-section-items-top elementor-section-full_width elementor-hidden-phone elementor-section-height-default" data-id="ce1d0c5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;background_motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
 						<div class="elementor-container elementor-column-gap-no">
