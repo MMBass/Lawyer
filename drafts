@@ -1,0 +1,138 @@
+
+// Who we are section:
+<section class="elementor-section elementor-top-section elementor-element elementor-element-ce1d0c5 elementor-section-height-min-height elementor-section-items-top elementor-section-full_width elementor-hidden-phone elementor-section-height-default" data-id="ce1d0c5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;background_motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-8f587ab" data-id="8f587ab" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-bf59fbf" data-id="bf59fbf" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-162ebe4 elementor-widget elementor-widget-menu-anchor" data-id="162ebe4" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div id="whyWe" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-59244fe elementor-widget elementor-widget-heading" data-id="59244fe" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">מי אנחנו?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b463a9f elementor-widget elementor-widget-text-editor" data-id="b463a9f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>עו”ד אדמוני בעל ניסיון<br>בתחום של כ- 20 שנה<br><strong>התמודדנו עם כל סוגי הנושים</strong><br><strong>החל מבנקים ועד השוק האפור</strong></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-b90122a" data-id="b90122a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-10f0543 elementor-widget-divider--view-line_text elementor-hidden-phone elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider animated zoomInUp" data-id="10f0543" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomInUp&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<span class="elementor-divider__text elementor-divider__element">^</span>
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d85598e" data-id="d85598e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-366017f elementor-widget elementor-widget-text-editor" data-id="366017f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>אלו כללי המפתח שלנו <strong>להצלחה</strong> &gt;</p></div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-474a3d5 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="474a3d5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c900257 animated fadeIn" data-id="c900257" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:700}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fb72a4e elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-heading" data-id="fb72a4e" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">1</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c687a7e elementor-widget elementor-widget-text-editor" data-id="c687a7e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong>כל סוג של חוב ניתן לסדר!</strong><br>הסדרנו חובות מכל הסוגים<br>ובגדלים שונים. צריך לדעת<br>להוריד את הראש מתחת<br>למים כשבא גל, <strong>לצאת</strong><br><strong>ממנו ולחזור בכל הכוח!</strong></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e4541fb animated fadeIn" data-id="e4541fb" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:700,&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9638956 elementor-widget elementor-widget-text-editor" data-id="9638956" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong>משא ומתן ויכולות</strong><br><strong>מיקוח הם המפתח!</strong><br>לקרוא את מפת<br>האינטרסים נכון וללחוץ!</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e4032d2 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-heading" data-id="e4032d2" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">2</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6a249e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6a249e3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0f9d230 animated fadeIn" data-id="0f9d230" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:700,&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0d56d8d elementor-widget elementor-widget-text-editor" data-id="0d56d8d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong>פשיטת רגל</strong><br><strong>במינימום נזק? אפשרי!</strong><br>כשמכירים את כל<br>הפרטים הקטנים בחוק<br>ובתהליך.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-40034c8 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-heading" data-id="40034c8" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">3</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a698c1d animated fadeIn" data-id="a698c1d" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:700}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-aed02e9 elementor-widget elementor-widget-text-editor" data-id="aed02e9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong>“בתחבולות תעשה</strong><br><strong>לך מלחמה”</strong></p><p><br>לחשוב על פתרונות<br>מחוץ לקופסא!</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-935e1f3 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-heading" data-id="935e1f3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">4</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-af0e592" data-id="af0e592" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
